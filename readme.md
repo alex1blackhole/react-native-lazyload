@@ -10,6 +10,9 @@ A \`lazyload\` components suit for React Native.
 npm install react-native-lazyload
 ```
 
+[![npm
+package](https://nodei.co/npm/react-native-lazyload-components.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-native-lazyload-components/)
+
 #### Components
 
 Component           | Description
